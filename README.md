@@ -4,6 +4,8 @@
 
 NOTE: 99% of the code is from [The AI Guy's repo/tutorial](https://github.com/theAIGuysCode/yolov4-deepsort) which I just forked and modified so that I could use my own custom weights.
 
+To build your own custom YOLOv4 model watch [this tutorial by The AI Guy](https://www.youtube.com/watch?v=mmj3nxGT2YQ)
+
 
 Object tracking implemented with **Custom YOLOv4 Model**, DeepSort, and TensorFlow. YOLOv4 is a state of the art algorithm that uses deep convolutional neural networks to perform object detections. We can take the output of YOLOv4 feed these object detections into Deep SORT (Simple Online and Realtime Tracking with a Deep Association Metric) in order to create a highly accurate object tracker.
 
